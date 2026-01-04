@@ -1,0 +1,5 @@
+project_name,process_type,material_name,quantity,unit,source,energy_type,energy_amount,energy_unit,emission_type,emission_amount,emission_unit,transport_mode,distance,load_weight,water_consumption,water_discharge,water_recycled
+Iron Ore Processing Project,Pyrometallurgical Processing,Iron Ore,50000,kg,Underground Mine,electricity,8000,kWh,CO2,4000,kg,truck,200,50000,1000,300,200
+Iron Ore Processing Project,Pyrometallurgical Processing,Coke,5000,kg,Coal Plant,coal,2000,kWh,CO2,1500,kg,rail,300,5000,,,
+Iron Ore Processing Project,Pyrometallurgical Processing,Limestone,3000,kg,Quarry,electricity,500,kWh,CO2,250,kg,truck,50,3000,,,
+
